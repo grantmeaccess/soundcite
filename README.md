@@ -1,3 +1,5 @@
+# Forked for CUNY Graduate School of Journalism students
+
 # Inline audio players. Easy to make. Seamless to publish.
 
 Usually adding audio to a text story is an uncomfortable choice. Either the user reads or listens but never both. Until now.
